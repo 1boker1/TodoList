@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.MVC_test-main.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\tonip\Downloads\MVC_test-main\MVC_test-main\.idea\.idea.MVC_test-main\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
